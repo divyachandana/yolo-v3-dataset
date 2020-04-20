@@ -1,3 +1,3 @@
-dataset/2hWjo6QClW3QcUzArlCklg_-75.750617_45.28936_0_330.26.jpg
-dataset/1ZUPZD2T2fOAuznDEgLBlQ_-75.771799_45.356095_0_249.25.jpg
-dataset/2a-9hl8pQOaUfhZZ-4yitw_-75.734557_45.286405_0_239.81.jpg
+/content/darknet/cfg/dataset/2hWjo6QClW3QcUzArlCklg_-75.750617_45.28936_0_330.26.jpg
+/content/darknet/cfg/dataset/1ZUPZD2T2fOAuznDEgLBlQ_-75.771799_45.356095_0_249.25.jpg
+/content/darknet/cfg/dataset/2a-9hl8pQOaUfhZZ-4yitw_-75.734557_45.286405_0_239.81.jpg
